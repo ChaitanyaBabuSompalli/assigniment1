@@ -2,6 +2,7 @@
 // The iostream header is included to enable standard input/output operations
 using namespace std;
 // Bringing the entire std namespace into scope
+
 // Optimized Bubble Sort Function
 void optimizedBubbleSort(int arr[], int n) {
     // Flag to check if any swaps occurred in a pass
