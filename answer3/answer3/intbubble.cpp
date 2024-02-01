@@ -33,7 +33,9 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
-
-    return 0;
-    // Indicates successful execution and program termination
+    
+}
+// Indicates successful execution and program termination
+return 0;
+   
 }
